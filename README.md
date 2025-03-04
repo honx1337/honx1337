@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @honx1337
 - 👀 I’m interested in Cybersecurity, ICT, IT & Linux
-- 🌱 I’m currently learning Black Hat Python, TCM's PNPT
+- 🌱 I’m currently studying on Lublin Univesity of Technology, Computer Science Course
 - 💞️ I’m looking to collaborate on null, I'm still learning
 - 📫 How to reach me netcat1337#3390 on discord
 
