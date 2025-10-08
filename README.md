@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @honx1337.
-- 👀 I’m interested in Cybersecurity, ICT, IT, Linux & Mandalorian culture & 3d-printed prop making.
+- 👀 I’m interested in Cybersecurity, ICT, IT, Linux, Mandalorian culture & 3d-printed prop making.
 - 🌱 I’m currently studying: on Lublin University of Technology, Computer Science Course.
 - 💞️ I’m looking to collaborate on: null, I'm still learning.
 - 📫 How to reach me: netcat1337#3390 on discord.
